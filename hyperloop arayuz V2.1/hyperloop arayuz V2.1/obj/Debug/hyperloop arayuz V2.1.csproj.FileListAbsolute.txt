@@ -1,0 +1,48 @@
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\hyperloop arayuz V2.1.exe.config
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\hyperloop arayuz V2.1.exe
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\hyperloop arayuz V2.1.pdb
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\CodeArtEng.Gauge.dll
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.dll
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\OxyPlot.dll
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.pdb
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.xml
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\OxyPlot.xml
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop_arayuz_V2._1.Form1.resources
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop_arayuz_V2._1.Properties.Resources.resources
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.csproj.GenerateResource.cache
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.exe
+C:\Users\bilal\source\repos\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.pdb
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\hyperloop arayuz V2.1.exe.config
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\hyperloop arayuz V2.1.exe
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\hyperloop arayuz V2.1.pdb
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\CodeArtEng.Gauge.dll
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.dll
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\OxyPlot.dll
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.pdb
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.xml
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\OxyPlot.xml
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.csproj.AssemblyReference.cache
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop_arayuz_V2._1.Form1.resources
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop_arayuz_V2._1.Properties.Resources.resources
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.csproj.GenerateResource.cache
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.exe
+C:\Users\bilal\Desktop\hyperloop arayuz V2.1\hyperloop arayuz V2.1\obj\Debug\hyperloop arayuz V2.1.pdb

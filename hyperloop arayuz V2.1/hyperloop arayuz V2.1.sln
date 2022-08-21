@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hyperloop arayuz V2.1", "hyperloop arayuz V2.1\hyperloop arayuz V2.1.csproj", "{9F82F7D2-B98D-41F2-9E9E-AF1136A191AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F82F7D2-B98D-41F2-9E9E-AF1136A191AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F82F7D2-B98D-41F2-9E9E-AF1136A191AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F82F7D2-B98D-41F2-9E9E-AF1136A191AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F82F7D2-B98D-41F2-9E9E-AF1136A191AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8859173A-B597-4EFE-86D9-98B85BA23458}
+	EndGlobalSection
+EndGlobal
