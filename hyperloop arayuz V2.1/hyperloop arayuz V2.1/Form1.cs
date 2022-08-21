@@ -65,7 +65,7 @@ namespace hyperloop_arayuz_V2._1
         List<double> AccelZValues = new List<double>();
         LineSeries seriesAccelZ = new LiveCharts.Wpf.LineSeries() { };
 
-        TextWriter txt = new StreamWriter(@"C:\Users\bilal\Desktop\log.txt");
+        TextWriter txt = new StreamWriter(@"FileLocation\log.txt");
 
         private void button_close_Click(object sender, EventArgs e)
         {
